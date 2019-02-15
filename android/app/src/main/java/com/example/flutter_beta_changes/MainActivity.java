@@ -1,4 +1,4 @@
-package com.example.flutterbetachanges;
+package com.example.flutter_beta_changes;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
